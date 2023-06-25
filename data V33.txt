@@ -46,12 +46,12 @@
 },
   "my_data":[
   {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+   "photo1":"https://iili.io/HPg6XkP.jpg"},
+  {"desc2":"The Skibidi Toilet War burst onto the scene as a bizarre and humorous video trend, inspired by the music video "Skibidi" by the Russian band Little Big","photo2":"https://iili.io/HPg6hp1.jpg"},
+  {"desc3":"The concept involves individuals filming themselves performing a unique dance routine in a confined bathroom space, accompanied by the infectious Skibidi song","photo3":"https://iili.io/HPg6V2V.jpg"},
+  {"desc4":"This viral trend quickly spread across social media platforms, captivating audiences with its absurdity and encouraging widespread participation.","photo4":"https://iili.io/HPg6WYB.jpg"},
+  {"desc5":"On the other hand, TVMan represents a paradigm shift in television programming. TVMan is a streaming platform that offers a curated selection of original and user-generated content","photo5":"https://iili.io/HPg6wTF.jpg"},
+  {"descd":" TVMan's concept centers around an interactive interface that allows viewers to engage with the content they watch, making decisions that directly impact the storyline","photod":"https://iili.io/HPgUpzG.jpg"}
    ]
  
 }
