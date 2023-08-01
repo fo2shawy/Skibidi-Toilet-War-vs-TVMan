@@ -7,10 +7,10 @@
 "unity_gameid":"5082535",
  
 
-"facebook_inter":"IMG_16_9_APP_INSTALL#1444095999348608_1507496829675191",
-"facebook_banner":"IMG_16_9_APP_INSTALL#1444095999348608_1508844899540384",
-"facebook_native":"IMG_16_9_APP_INSTALL#1444095999348608_1526320831126124",
-"facebook_reward":"PLAYABLE#1444095999348608_1582552458836294",
+"facebook_inter":"1691036654728166_1693783051120193",
+"facebook_banner":"1691036654728166_1693782781120220",
+"facebook_native":"1691036654728166_1693783431120155",
+"facebook_reward":"1691036654728166_1693783631120135",
   
 
 "admob_inter":"ca-app-pub-3940256099942544/1033173712",
@@ -36,11 +36,11 @@
   {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"}
    ],
 
-"download_dialog_txt":"download text from server",
-"banner_network_choice":"vungle", 
-"interstisial_network_choice":"vungle", 
-"reward_network_choice":"vungle",
-"native_network_choice":"admob"
+"download_dialog_txt":"facebook",
+"banner_network_choice":"facebook", 
+"interstisial_network_choice":"facebook", 
+"reward_network_choice":"facebook",
+"native_network_choice":"facebook"
   
 
 },
