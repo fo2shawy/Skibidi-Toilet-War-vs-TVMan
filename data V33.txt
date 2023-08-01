@@ -7,10 +7,10 @@
 "unity_gameid":"5082535",
  
 
-"facebook_inter":"1691036654728166_1693783051120193",
-"facebook_banner":"1691036654728166_1693782781120220",
-"facebook_native":"1691036654728166_1693783431120155",
-"facebook_reward":"1691036654728166_1693783631120135",
+"facebook_inter":"287898880559291_290591703623342",
+"facebook_banner":"287898880559291_290591510290028",
+"facebook_native":"287898880559291_290591923623320",
+"facebook_reward":"287898880559291_290592123623300",
   
 
 "admob_inter":"ca-app-pub-3940256099942544/1033173712",
@@ -24,10 +24,10 @@
 "yandex_native":"R-M-DEMO-native-i",
 "yandex_reward":"demo-rewarded-yandex",
   
-"vungle_appid":"645e64defe20a95ccb12bd7b ",
-"vungle_inter":"INTER-5944534",
-"vungle_banner":"DEFAULTBANNER-5844358",
-"vungle_reward":"REWARD-7025613",
+"vungle_appid":"facebook",
+"vungle_inter":"facebook",
+"vungle_banner":"facebook",
+"vungle_reward":"facebook",
 
   
  "more_apps_info":[
